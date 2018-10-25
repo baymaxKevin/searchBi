@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="searchBi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/searchBi/searchBi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
